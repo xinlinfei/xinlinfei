@@ -1,4 +1,12 @@
 ### Hi there 👋
+#### 🔧 Languages and Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,cpp,git,docker&theme=dark" />
+</p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xinlinfei&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xinlinfei&theme=tokyonight&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xinlinfei&theme=tokyonight)
 
 <!--
 **xinlinfei/xinlinfei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
